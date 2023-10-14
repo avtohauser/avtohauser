@@ -1,0 +1,9 @@
+{
+    "id": "openai-plugin",
+    "name": "OpenAI Plugin for Obsidian",
+    "version": "0.1.0",
+    "description": "Process text with OpenAI.",
+    "main": "main.js",
+    "author": "Your Name",
+    "license": "MIT"
+}
