@@ -1,9 +1,9 @@
 {
-    "id": "openai-plugin",
-    "name": "OpenAI Plugin for Obsidian",
+    "id": "test-plugin",
+    "name": "GPT Plugin for Obsidian",
     "version": "0.1.0",
-    "description": "Process text with OpenAI.",
+    "description": "Process text with GPT.",
     "main": "main.js",
-    "author": "Your Name",
+    "author": "our king",
     "license": "MIT"
 }
